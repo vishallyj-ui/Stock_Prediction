@@ -1,5 +1,5 @@
 # Stock_Prediction
-📈 Stock Price Prediction using LSTM + XGBoost 👨‍💻 Team Members V.C. Prithew Vishallini
+📈 Stock Price Prediction using LSTM + XGBoost 👨‍💻 
 
 📌 Project Overview
 
